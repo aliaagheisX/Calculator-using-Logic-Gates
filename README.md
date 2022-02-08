@@ -1,5 +1,5 @@
 
-# Calculator-using-Logic-Gates
+# Calculator using Logic Gates
 ![calculator on real life](https://github.com/aliaagheisX/Calculator-using-Logic-Gates/blob/d4fb983bd0364fd0b8719d72d9e3ce44a6aa6cea/Logic%20Calculator.jpeg)
 4 bit Calculator using Logic Gates
 
